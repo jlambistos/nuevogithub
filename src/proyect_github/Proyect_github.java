@@ -7,11 +7,9 @@ package proyect_github;
 
 public class Proyect_github {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
-        System.out.println("hola");
+        System.out.println("hola segunda parte");
     }
     
 }
