@@ -5,10 +5,6 @@
  */
 package proyect_github;
 
-/**
- *
- * @author AlumGS
- */
 public class Proyect_github {
 
     /**
